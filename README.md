@@ -3,4 +3,4 @@
 npm install
 node index.js
 
-[!Screenshot](PendingPayoutOnKusamaNode.png)
+![Screenshot](PendingPayoutOnKusamaNode.png)
